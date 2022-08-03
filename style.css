@@ -1,0 +1,186 @@
+*{
+    font-family: "Arial";
+}
+
+#main{
+    width: 1000px;
+    height: auto;
+    margin: auto;
+}
+
+#top-bar{
+    background-color: rgb(75, 67, 67);
+    padding: 10px 10px 10px 10px;
+}
+
+
+.logo-img{
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+}
+
+.top-text{
+    font-size: 20px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 20px;
+    position: absolute;
+    text-decoration: none;
+}
+
+.top-text-reg{
+    font-size: 20px;
+    color: white;
+    margin-left: 800px;
+    margin-top: 15px;
+    position: absolute;
+    text-decoration: none;
+}
+
+.center-cont{
+    width: 1000px;
+    position: relative;
+    text-align: center;
+}
+
+.center-img{
+    width: 1000px;
+}
+
+.center-logo{
+    position: absolute;
+    top: 20%;
+    left: 40%;
+    height: 200px;
+    width: 180px;
+}
+
+.center-text{
+    position: absolute;
+    top: 65%;
+    left: 20%;
+}
+
+.feat
+{
+    background-color: black;
+    margin-top: -5px;
+    padding: 10px 50px 400px 10px;
+}
+
+.fresh-img{
+    position: absolute;
+    height: 170px;
+    width: 170px;
+    margin-left: 75px;
+    margin-top: 20px;
+}
+
+.exc-img{
+    position: absolute;
+    height: 170px;
+    width: 170px;
+    margin-left: 400px;
+    margin-top: 20px;
+}
+
+.cre-img{
+    position: absolute;
+    height: 170px;
+    width: 170px;
+    margin-left: 730px;
+    margin-top: 20px;
+}
+
+.fresh-text{
+    position: absolute;
+    color: white;
+    margin-top: 220px;
+    margin-left: 125px;
+}
+
+.exc-text{
+    position: absolute;
+    color: white;
+    margin-top: 220px;
+    margin-left: 420px;
+}
+
+.cre-text{
+    position: absolute;
+    color: white;
+    margin-top: 220px;
+    margin-left: 770px;
+}
+
+.fresh-desc{
+    text-align: center;
+    position: absolute;
+    color: white;
+    margin-top: 250px;
+    margin-left: 50px;
+}
+
+.exc-desc{
+    text-align: center;
+    position: absolute;
+    color: white;
+    margin-top: 250px;
+    margin-left: 330px;
+}
+
+.cre-desc{
+    text-align: center;
+    position: absolute;
+    color: white;
+    margin-top: 250px;
+    margin-left: 680px;
+}
+
+.tea1{
+    position: absolute;
+    height: 240px;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.tea2{
+    position: absolute;
+    height: 240px;
+    width: 300px;
+    margin-left: 350px;
+}
+
+.tea3{
+    position: absolute;
+    height: 240px;
+    width: 300px;
+    margin-left: 650px;
+}
+
+.bottom{
+    background-color: rgb(70, 70, 70);
+    position: relative;
+    margin-top: 320px;
+    text-align: center;
+    padding: 10px 10px 5px 10px;
+}
+
+.insta-btn{
+    position: absolute;
+    margin-left: 460px;
+    margin-top: 5px;
+}
+
+.face-btn{
+    position: relative;
+    margin-left: 60px;
+    margin-top: 5px;
+}
+
+.cop-text{
+    color: white;
+    font-size: 15px;
+    margin-right: 50px;
+}
